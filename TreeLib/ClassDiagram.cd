@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TreeLib.Binary_SearchTree">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAACCAAAgEAAAAQAAAAAA0AAAAAFAAAAA=</HashCode>
+      <FileName>Binary_SearchTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeLib.BinaryTree" Collapsed="true">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAAAAAAACBAAAAAAAEAAAAAAAgAAACABAAwAA=</HashCode>
+      <FileName>BinaryTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeLib.GeneralTree" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAEAAAAAAAkAAACABAAAEA=</HashCode>
+      <FileName>GeneralTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeLib.Tree" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAEAAAIAAAAAA=</HashCode>
+      <FileName>Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeLib.NodeTree" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAEIAAABAAAAgAAAFEAAEBAAAhIAAAAAA=</HashCode>
+      <FileName>TreeNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

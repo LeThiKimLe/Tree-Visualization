@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ultility.OvalPictureBox" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAwAAIEABAACUKAASBCgAAgEAABIgAEJAIAgBApgACA=</HashCode>
+      <FileName>GraphicsTreeLib.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ultility.GraphicsTree" Collapsed="true">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQYAAIAAAABIGUEIghIAQkQgUAkIAgEAAAIRBIECg=</HashCode>
+      <FileName>GraphicsTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ultility.General_GraphicTree" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAgAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>GraphicsTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ultility.Binary_GraphicTree" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAKAAAAAACAgAIBAABAAABAEAAIAAAAAAAIUAA=</HashCode>
+      <FileName>GraphicsTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ultility.SearchBinary_GraphicTree" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAEQAAAAACYgAgAAAAAAAEAAIAAACAAAABIAAA=</HashCode>
+      <FileName>GraphicsTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
